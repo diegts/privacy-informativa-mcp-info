@@ -8,8 +8,8 @@ trattati, per quali finalità, con quale base giuridica, per quanto tempo,
 e a chi vengono comunicati — spiegato in linguaggio semplice, non in
 legalese.
 
-**Non è un tool per il titolare del trattamento**: è pensato dal punto
-di vista di chi riceve un'informativa e vuole capirla.
+**Non è un tool specifico per la creazione**: è pensato dal punto
+di vista di chi riceve un'informativa e vuole capirla ma anche per chi le crea e vuole analizzarle.
 
 Questa pagina descrive solo cosa fa il plugin e come collegarlo al proprio Claude.
 
