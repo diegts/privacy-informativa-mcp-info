@@ -1,5 +1,3 @@
-# privacy-informativa-mcp-info
-privacy-informativa-mcp-info 
 # privacy-informativa-mcp
 
 Plugin MCP (Model Context Protocol) gratuito per Claude che aiuta chiunque
