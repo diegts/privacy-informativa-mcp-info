@@ -48,8 +48,7 @@ online.
 
 Funziona su Claude.ai, Claude Desktop, Cowork e le app mobile.
 
-**Nota sui tempi di risposta**: il servizio gira su un piano gratuito e
-si "addormenta" dopo un periodo di inattività — la prima richiesta dopo
+**Nota sui tempi di risposta**: il servizio si "addormenta" dopo un periodo di inattività — la prima richiesta dopo
 una pausa può richiedere 30-60 secondi. Le richieste successive sono
 immediate.
 
