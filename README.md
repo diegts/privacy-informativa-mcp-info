@@ -11,8 +11,7 @@ legalese.
 **Non è un tool per il titolare del trattamento**: è pensato dal punto
 di vista di chi riceve un'informativa e vuole capirla.
 
-> Il codice sorgente di questo progetto non è pubblico. Questa pagina
-> descrive solo cosa fa il plugin e come collegarlo al proprio Claude.
+Questa pagina descrive solo cosa fa il plugin e come collegarlo al proprio Claude.
 
 ## Cosa fa
 
@@ -82,4 +81,4 @@ Apri una issue su questo stesso repository, oppure contatta l'autore.
 ## Licenza d'uso
 
 Il servizio è gratuito e liberamente utilizzabile da chiunque tramite
-Claude. Il codice sorgente resta privato.
+Claude. 
