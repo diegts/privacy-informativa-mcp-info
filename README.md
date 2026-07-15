@@ -67,8 +67,8 @@ di uno.
   caricamento (es. dopo il consenso cookie). I risultati sono un limite
   inferiore delle terze parti realmente presenti, non un elenco
   definitivo.
-- Non esiste un modo per cercare un'azienda a partire dal solo nome:
-  serve il sito o il link diretto all'informativa.
+- Non è configurato per cercare l'informativa privacy di un organizzazione a partire dal solo nome:
+  serve almeno il sito o il link diretto all'informativa.
 - **Non fornisce consulenza legale.** Aiuta a leggere un documento e a
   raccogliere informazioni; qualunque azione formale (reclamo, diffida)
   va valutata con un professionista se la posta in gioco lo richiede.
